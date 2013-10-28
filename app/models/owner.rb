@@ -3,7 +3,7 @@ class Owner
     name = 'Foobar Kadigan'
   end
   def birthdate
-    birthdate = Date.new(1990, 9, 22)
+    birthdate = Date.new(1990, 11, 22)
   end
   def countdown
     today = Date.today
